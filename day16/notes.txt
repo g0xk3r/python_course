@@ -1,0 +1,6 @@
+Un objeto es una combinación de datos y funciones (metodos)
+
+Una clase es un conjunto de objetos
+- Lleva la primera con mayuscula
+
+Una CLASE es el plano con el que se va a armar un OBJETO
